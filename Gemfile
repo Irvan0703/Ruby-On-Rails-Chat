@@ -26,4 +26,4 @@ gem "bootsnap", require: false
 gem "kamal", require: false
 gem "thruster", require: false
 gem "tzinfo-data", platforms: %i[ windows jruby ]
-gem "rack-cors", "~> 2.0"
+gem "rack-cors", "~> 3.0"
