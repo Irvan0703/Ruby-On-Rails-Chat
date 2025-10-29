@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "3.3.7"
 
-gem "rails", "~> 8.0.1"
+gem "rails", "~> 8.1.1"
 gem "puma", ">= 5.0"
 
 # Gunakan SQLite untuk development & test
